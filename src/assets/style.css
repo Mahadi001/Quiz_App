@@ -74,6 +74,7 @@
 
 .playBtn {
   position: absolute;
+  border-radius: 10px;
   font-size: 1.4em;
   padding: 10px;
   top: 350px;
